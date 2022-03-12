@@ -1,2 +1,2 @@
 # Optimized-Paper.yml
-The Optimized Paper.yml
+Optimized Paper.yml
